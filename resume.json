@@ -34,8 +34,24 @@
       "position": "Product Development Engineer",
       "url": "https://my.linkedin.com/company/ytl-communications",
       "startDate": "2021-08-02",
-      "summary": "Description…",
-      "highlights": ["Started the company"]
+      "summary": "Currently working as maintainer an existing system and get involved in various kind of projects related to 5G and IIOT",
+      "highlights": [
+        "Works on bug fix, improvement, and change request on existing applications",
+        "Maintainer existing web applications",
+        "Internet of Things (IoT) & 5G related project"
+      ]
+    },
+    {
+      "name": "Linear DMS Solutions Sdn Bhd",
+      "position": "Software Developer",
+      "url": "https://lineardms.com.my/",
+      "startDate": "2021-08-02",
+      "summary": "Currently working as maintainer an existing system and get involved in various kind of projects related to 5G and IIOT",
+      "highlights": [
+        "Take apart in frontend development",
+        "Developed and maintained an existing application",
+        "Mostly involved in backend development"
+      ]
     }
   ],
   "education": [
