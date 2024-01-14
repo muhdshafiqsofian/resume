@@ -45,12 +45,26 @@
       "name": "Linear DMS Solutions Sdn Bhd",
       "position": "Software Developer",
       "url": "https://lineardms.com.my/",
-      "startDate": "2021-08-02",
-      "summary": "Currently working as maintainer an existing system and get involved in various kind of projects related to 5G and IIOT",
+      "startDate": "2019-12-31",
+      "endDate": "2021-07-30",
+      "summary": "Designing, maintaning and develop an IOT platform for smart home to market as SAAS",
       "highlights": [
         "Take apart in frontend development",
         "Developed and maintained an existing application",
         "Mostly involved in backend development"
+      ]
+    },
+    {
+      "name": "Linear DMS Solutions Sdn Bhd",
+      "position": "Graduate Trainee",
+      "url": "https://lineardms.com.my/",
+      "startDate": "2019-09-01",
+      "endDate": "2019-12-31",
+      "summary": "As an graduate intern I just came in absorb all knowledge as much as can",
+      "highlights": [
+        "Focus on assist backend development",
+        "Introduced frontend development using AngularJS & Angular 8",
+        "Built an algorithm to calculate air-conditioner power consumption based on real-time data"
       ]
     }
   ],
@@ -142,12 +156,15 @@
   ],
   "projects": [
     {
-      "name": "Project",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "description": "Description...",
-      "highlights": ["Won award at AIHacks 2016"],
-      "url": "https://project.com/"
+      "name": "@Nodus Air-conditioner Analysis",
+      "startDate": "2019-09-01",
+      "endDate": "2020-03-31",
+      "description": "An air-conditioner power consumption estimation algorithm",
+      "highlights": [
+        "Power consumption estimated based on real-time incoming data from A/C",
+        "Accurancy about 70%, incompleted verification because of insufficient data"
+      ],
+      "_url": ""
     }
   ]
 }
