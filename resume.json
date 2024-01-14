@@ -60,7 +60,7 @@
       "url": "https://lineardms.com.my/",
       "startDate": "2019-09-01",
       "endDate": "2019-12-31",
-      "summary": "As an graduate intern I just came in absorb all knowledge as much as can",
+      "summary": "As a graduate intern I just came in absorb all knowledge as much as can",
       "highlights": [
         "Focus on assist backend development",
         "Introduced frontend development using AngularJS & Angular 8",
@@ -156,9 +156,33 @@
   ],
   "projects": [
     {
+      "name": "@Nodus Revision 2.0",
+      "description": "To be update"
+    },
+    {
+      "name": "@Nodus Occupancy Detection",
+      "description": "To be update"
+    },
+    {
+      "name": "@Nodus Auto-Fan Cleaning Mode",
+      "description": "To be update"
+    },
+    {
+      "name": "@Nodus Virtual Thermostat Manager",
+      "startDate": "2020-02-29",
+      "endDate": "2020-12-31",
+      "description": "An air-conditioner smart control manager. Main objective to avoid over-cooling and over-power use while maintaining comfort",
+      "highlights": [
+        "A complex algorithm is dealing with the internal temperature versus the external temperature sensor",
+        "Fine-tune some parameters by looking at previous data to provide better results",
+        "Provide an API to allow integration with web and mobile platforms"
+      ],
+      "_url": ""
+    },
+    {
       "name": "@Nodus Air-conditioner Analysis",
       "startDate": "2019-09-01",
-      "endDate": "2020-03-31",
+      "endDate": "2020-02-29",
       "description": "An air-conditioner power consumption estimation algorithm",
       "highlights": [
         "Power consumption estimated based on real-time incoming data from A/C",
