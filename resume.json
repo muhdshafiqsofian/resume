@@ -1,6 +1,6 @@
 {
   "meta": {
-    "theme": "macchiato"
+    "_theme": "kendall"
   },
   "basics": {
     "name": "Muhamad Shafiq bin Sofian",
@@ -91,7 +91,7 @@
     {
       "name": "Software Development",
       "level": "Advanced",
-      "keywords": ["Git", "HTTP", "HTTPs"]
+      "keywords": ["Git", "HTTP", "HTTPs", "Agile", "Jira"]
     }
   ],
   "languages": [
@@ -107,11 +107,15 @@
   "interests": [
     {
       "name": "Astronomy",
-      "keywords": ["BlackHole", "Exoplanets"]
+      "keywords": ["Black hole", "Exoplanets"]
     },
     {
       "name": "Technology",
       "keywords": ["Web", "EV", "Smartphone"]
+    },
+    {
+      "name": "Sci-Fi Movies",
+      "keywords": ["Interstellar", "Marvel"]
     }
   ],
   "references": [
