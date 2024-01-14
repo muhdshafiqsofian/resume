@@ -4,34 +4,37 @@
   },
   "basics": {
     "name": "Muhamad Shafiq bin Sofian",
-    "label": "Product Development Engineer",
+    "label": "Software Developer",
     "image": "https://avatars.githubusercontent.com/u/32656254?v=4",
     "email": "muhdshafiqsofian@gmail.com",
     "_phone": "(912) 555-4321",
     "url": "https://johndoe.com",
     "summary": "A summary of John Doe…",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Bedong",
+      "countryCode": "MS",
+      "region": "Malaysia"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "john",
-        "url": "https://twitter.com/john"
+        "username": "mshafiqsofian",
+        "url": "https://x.com/mshafiqsofian"
+      },
+      {
+        "network": "Github",
+        "username": "muhdshafiqsofian",
+        "url": "https://github.com/muhdshafiqsofian/"
       }
     ]
   },
   "work": [
     {
       "name": "YTL Communications Sdn Bhd",
-      "position": "President",
-      "url": "https://company.com",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
+      "position": "Product Development Engineer",
+      "url": "https://my.linkedin.com/company/ytl-communications",
+      "startDate": "2021-08-02",
+      "endDate": "Present",
       "summary": "Description…",
       "highlights": ["Started the company"]
     }
