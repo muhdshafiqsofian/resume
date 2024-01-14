@@ -9,9 +9,9 @@
     "email": "muhdshafiqsofian@gmail.com",
     "_phone": "(912) 555-4321",
     "url": "https://johndoe.com",
-    "summary": "A summary of John Doe…",
+    "summary": "As a Product Development Engineer, I specialize in frontend web development, contributing my skills and expertise to create engaging and user-friendly interfaces. \nMy role extends beyond traditional web development, as I actively participate in diverse projects related to the Internet of Things (IoT). I bring a dynamic blend of technical proficiency and innovative problem-solving to the field, consistently driving projects forward and ensuring successful outcomes in both frontend design and IoT implementations.",
     "location": {
-      "city": "Bedong",
+      "city": "Kedah",
       "countryCode": "MS",
       "region": "Malaysia"
     },
@@ -38,71 +38,80 @@
       "highlights": ["Started the company"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Organization",
-      "position": "Volunteer",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description…",
-      "highlights": ["Awarded 'Volunteer of the Month'"]
-    }
-  ],
   "education": [
     {
-      "institution": "University",
-      "url": "https://institution.com/",
-      "area": "Software Development",
+      "institution": "University Malaysia Perlis",
+      "url": "https://www.unimap.edu.my/index.php/en/",
+      "area": "Computer Engineering",
       "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "score": "4.0",
-      "courses": ["DB1101 - Basic SQL"]
-    }
-  ],
-  "awards": [
+      "startDate": "2015-09-01",
+      "endDate": "2019-11-01",
+      "_score": "2.8",
+      "_courses": ["DB1101 - Basic SQL"]
+    },
     {
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
+      "institution": "Japan Malaysian Technical Institute",
+      "url": "https://www.jmti.gov.my/",
+      "area": "Computer Engineering Technology",
+      "studyType": "Diploma & Malaysian Proficiency Diploma",
+      "startDate": "2012-01-01",
+      "endDate": "2014-12-01",
+      "_score": "3.47",
+      "_courses": ["DB1101 - Basic SQL"]
     }
   ],
   "certificates": [
     {
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "https://publication.com",
-      "summary": "Description…"
+      "name": "Graduate Enginner",
+      "date": "2020-06-18",
+      "issuer": "Board Engineer Malaysia",
+      "url": "https://engineer.org.my//public/Engineers/Index/204600"
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": ["HTML", "CSS", "JavaScript"]
+      "name": "Frontend Web Development",
+      "level": "Advanced",
+      "keywords": ["HTML", "CSS", "JavaScript", "React"]
+    },
+    {
+      "name": "Backend Web Development",
+      "level": "Intermediate ",
+      "keywords": [
+        "NodeJS",
+        "JavaScript",
+        "Express",
+        "MQTT",
+        "Rest API",
+        "Redis",
+        "SQL / NOSQL",
+        "Firebase"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "level": "Advanced",
+      "keywords": ["Git", "HTTP", "HTTPs"]
     }
   ],
   "languages": [
     {
-      "language": "English",
+      "language": "Malay",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Proficient"
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
-      "keywords": ["Ferrets", "Unicorns"]
+      "name": "Astronomy",
+      "keywords": ["BlackHole", "Exoplanets"]
+    },
+    {
+      "name": "Technology",
+      "keywords": ["Web", "EV", "Smartphone"]
     }
   ],
   "references": [
